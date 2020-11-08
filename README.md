@@ -1,9 +1,8 @@
-# Hi there 👋 I'm Ahmed 😁
+# Hi there, I'm Ahmed 👋 
 ## I'm a 3rd Year Computer Science Undergraduate at [NUS](https://nus.edu.sg)
-### Welcome to my GitHub profile!
+### Welcome to my GitHub profile! 😁
 [About Me](https://madanalogy.dev/) • [LinkedIn](https://www.linkedin.com/in/ahmed-bahajjaj/)
 
-##
 [![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=madanalogy&count_private=true&hide=stars&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--<h1 align="center">Hi there 👋 I'm Ahmed 😁</h1>
